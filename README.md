@@ -1,9 +1,9 @@
 # Data Science in Industry — IndabaX Zimbabwe
 
-Presenter: [YOUR FULL NAME]  
+Presenter: [Walter M Nyamutamba]  
 Event: IndabaX Zimbabwe  
-Date: [DATE]  
-Contact: [YOUR EMAIL] · [linkedin.com/in/YOUR-HANDLE] · [github.com/YOUR-HANDLE]
+Date: [Thursday 4 March 2026]  
+Contact: [walternyamutamba@aims.ac.rw] · [linkedin.com/in/walter-mudavanhu-nyamutamba] · [github.com/walternyamutamba-svg]
 
 ---
 
